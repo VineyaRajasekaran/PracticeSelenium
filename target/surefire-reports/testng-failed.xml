@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resourcesNew.Listeners"/>
+    <listener class-name="resourcesNew.ExtentReporterNG"/>
+  </listeners>
+  <test name="LinksCount(failed)">
+    <classes>
+      <class name="SeleniumLearn1.MiscellaneousTest">
+        <methods>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- SeleniumLearn1.MiscellaneousTest -->
+      <class name="SeleniumLearn1.SpiceJetTest">
+        <methods>
+          <include name="browserCall"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- SeleniumLearn1.SpiceJetTest -->
+      <class name="SeleniumLearn1.ActionsClassTest">
+        <methods>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- SeleniumLearn1.ActionsClassTest -->
+      <class name="SeleniumLearn1.LinksCountTest">
+        <methods>
+          <include name="TearDown"/>
+          <include name="LinkCounts"/>
+          <include name="browserCall"/>
+        </methods>
+      </class> <!-- SeleniumLearn1.LinksCountTest -->
+    </classes>
+  </test> <!-- LinksCount(failed) -->
+</suite> <!-- Failed suite [Suite] -->

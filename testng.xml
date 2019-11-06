@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="resourcesNew.Listeners"/>
+	<listener class-name="resourcesNew.ExtentReporterNG"/>
+</listeners>
+    <test thread-count="5" name="Arrays">
+    <classes>
+      <class name="SeleniumLearn1.SortingArrayTest"/>
+       </classes>
+  </test>
+  
+   <test thread-count="5" name="TravelWebsite">
+    <classes>
+      <class name="SeleniumLearn1.SpiceJetTest"/>
+       </classes>
+  </test>
+  
+   <test thread-count="5" name="Actions">
+    <classes>
+      <class name="SeleniumLearn1.ActionsClassTest"/>
+       </classes>
+  </test>
+      <test thread-count="5" name="Miscellaneous">
+    <classes>
+     <class name="SeleniumLearn1.MiscellaneousTest"/>
+       </classes>
+  </test> 
+  
+   <test thread-count="5" name="LinksCount">
+    <classes>
+     <class name="SeleniumLearn1.LinksCountTest"/>
+       </classes>
+   </test>
+   <test thread-count="5" name="QAClickAcademy">
+    <classes>
+    <class name="SeleniumLearn1.QAClickAcademyTest"/>
+       </classes>
+  </test>
+     
+      
+      
+     <!-- Test -->
+</suite> <!-- Suite -->

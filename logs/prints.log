@@ -1,0 +1,441 @@
+11:57:49.092 [main] DEBUG SeleniumLearn1.TableGridTest - URL OF cricinfo : https://www.espncricinfo.com/series/8043/scorecard/1196120/tasmania-vs-victoria-7th-match-marsh-sheffield-shield-2019-20
+11:57:49.621 [main] INFO  SeleniumLearn1.TableGridTest - extra2 3
+11:57:49.666 [main] INFO  SeleniumLearn1.TableGridTest - total1 127
+11:57:49.666 [main] DEBUG SeleniumLearn1.TableGridTest - total1 127
+11:57:49.666 [main] INFO  SeleniumLearn1.TableGridTest - finaltotal127
+11:57:49.669 [main] ERROR SeleniumLearn1.TableGridTest - error
+11:57:49.669 [main] FATAL SeleniumLearn1.TableGridTest - fatal
+11:57:49.682 [main] DEBUG SeleniumLearn1.TableGridTest - debug
+12:00:10.442 [main] DEBUG SeleniumLearn1.TableGridTest - URL OF cricinfo : https://www.espncricinfo.com/series/8043/scorecard/1196120/tasmania-vs-victoria-7th-match-marsh-sheffield-shield-2019-20
+12:01:32.028 [main] DEBUG SeleniumLearn1.TableGridTest - URL OF cricinfo : https://www.espncricinfo.com/series/8043/scorecard/1196120/tasmania-vs-victoria-7th-match-marsh-sheffield-shield-2019-20
+12:01:32.586 [main] INFO  SeleniumLearn1.TableGridTest - extra2 3
+12:01:32.636 [main] INFO  SeleniumLearn1.TableGridTest - total1 127
+12:01:32.636 [main] DEBUG SeleniumLearn1.TableGridTest - total1 127
+12:01:32.636 [main] INFO  SeleniumLearn1.TableGridTest - finaltotal127
+12:01:32.639 [main] ERROR SeleniumLearn1.TableGridTest - error
+12:01:32.640 [main] FATAL SeleniumLearn1.TableGridTest - fatal
+12:01:32.643 [main] DEBUG SeleniumLearn1.TableGridTest - debug
+12:31:47.879 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+12:31:51.182 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: firstemail
+12:31:51.291 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: firstpwd
+12:32:58.135 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+12:33:01.388 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+12:33:01.509 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+12:39:02.293 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+12:39:16.239 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+12:39:22.393 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+12:39:22.571 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+12:39:39.781 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+12:39:43.830 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+12:39:44.033 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+12:39:59.963 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+12:40:05.699 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: third@email
+12:40:05.833 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: third@pwd
+12:49:40.075 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+13:01:49.129 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+13:02:03.803 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+13:02:15.121 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+13:02:29.525 [main] DEBUG SeleniumLearn1.SpiceJetTest - URL OF SpiceJet : https://www.spicejet.com/Default.aspx
+13:02:38.129 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+13:07:10.538 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:07:22.685 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : http://www.qaclickacademy.com/
+13:07:34.788 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : http://www.qaclickacademy.com/
+13:08:40.807 [main] DEBUG SeleniumLearn1.MiscellaneousTest - URL OF cricinfo : https://www.espncricinfo.com/series/8043/scorecard/1196120/tasmania-vs-victoria-7th-match-marsh-sheffield-shield-2019-20
+13:08:41.737 [main] INFO  SeleniumLearn1.MiscellaneousTest - extra2 3
+13:08:41.819 [main] INFO  SeleniumLearn1.MiscellaneousTest - total1 127
+13:08:41.819 [main] DEBUG SeleniumLearn1.MiscellaneousTest - total1 127
+13:08:41.819 [main] INFO  SeleniumLearn1.MiscellaneousTest - finaltotal127
+13:08:41.822 [main] ERROR SeleniumLearn1.MiscellaneousTest - error
+13:08:41.822 [main] FATAL SeleniumLearn1.MiscellaneousTest - fatal
+13:08:41.822 [main] DEBUG SeleniumLearn1.MiscellaneousTest - debug
+13:13:44.317 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+13:13:51.757 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+13:17:05.164 [main] DEBUG SeleniumLearn1.SpiceJetTest - URL OF SpiceJet : https://www.spicejet.com/Default.aspx
+13:17:25.799 [main] DEBUG SeleniumLearn1.SpiceJetTest - checkbox count is  6
+13:17:25.858 [main] DEBUG SeleniumLearn1.SpiceJetTest - checkbox isEnabled  false
+13:17:26.148 [main] DEBUG SeleniumLearn1.SpiceJetTest - Return date is enabled
+13:17:45.355 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:17:55.868 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : http://www.qaclickacademy.com/
+13:18:04.895 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : http://www.qaclickacademy.com/
+13:18:35.694 [main] DEBUG SeleniumLearn1.MiscellaneousTest - URL OF cricinfo : https://www.espncricinfo.com/series/8043/scorecard/1196120/tasmania-vs-victoria-7th-match-marsh-sheffield-shield-2019-20
+13:18:36.379 [main] INFO  SeleniumLearn1.MiscellaneousTest - extra2 3
+13:18:36.459 [main] INFO  SeleniumLearn1.MiscellaneousTest - total1 127
+13:18:36.459 [main] DEBUG SeleniumLearn1.MiscellaneousTest - total1 127
+13:18:36.459 [main] INFO  SeleniumLearn1.MiscellaneousTest - finaltotal127
+13:18:36.460 [main] ERROR SeleniumLearn1.MiscellaneousTest - error
+13:18:36.460 [main] FATAL SeleniumLearn1.MiscellaneousTest - fatal
+13:18:36.460 [main] DEBUG SeleniumLearn1.MiscellaneousTest - debug
+13:18:50.262 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+13:18:51.490 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 92
+13:18:51.582 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+13:18:58.802 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+13:19:03.539 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+13:19:08.142 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+13:19:15.839 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+13:19:16.225 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : Best Buy | Official Online Store | Shop Now & Save
+13:19:29.343 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+13:42:56.885 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:43:04.902 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : http://www.qaclickacademy.com/
+13:43:05.910 [main] DEBUG SeleniumLearn1.ActionsClassTest - the text in the frames is MIDDLE
+13:43:12.515 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : http://www.qaclickacademy.com/
+13:44:17.561 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:44:25.563 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : http://www.qaclickacademy.com/
+13:44:26.929 [main] DEBUG SeleniumLearn1.ActionsClassTest - the text in the frames is MIDDLE
+13:44:34.093 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : http://www.qaclickacademy.com/
+13:45:36.562 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:45:44.728 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:45:45.884 [main] DEBUG SeleniumLearn1.ActionsClassTest - the text in the frames is MIDDLE
+13:45:52.576 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:46:49.830 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:46:57.729 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:47:45.669 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:48:10.486 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:49:08.917 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:49:09.800 [main] DEBUG SeleniumLearn1.ActionsClassTest - the text in the frames is MIDDLE
+13:49:48.820 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:49:57.242 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:49:58.225 [main] DEBUG SeleniumLearn1.ActionsClassTest - the text in the frames is MIDDLE
+13:50:05.524 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:51:04.263 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+13:51:12.035 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:51:13.138 [main] DEBUG SeleniumLearn1.ActionsClassTest - the text in the frames is MIDDLE
+13:51:19.588 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:52:38.197 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+13:53:39.260 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+13:53:42.723 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+13:53:42.836 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+13:53:57.340 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+13:54:00.739 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+13:54:00.874 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+13:54:14.533 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+13:54:17.650 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: third@email
+13:54:17.765 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: third@pwd
+13:59:59.485 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:01:06.478 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:01:08.993 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello , share this practice page and share your knowledge
+14:04:37.797 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:04:41.867 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello , share this practice page and share your knowledge
+14:04:44.028 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello , Are you sure you want to confirm?
+14:11:20.906 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:11:46.100 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:11:54.212 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello , share this practice page and share your knowledge
+14:12:03.370 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello , Are you sure you want to confirm?
+14:15:18.662 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:15:27.100 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello Testing, share this practice page and share your knowledge
+14:15:36.318 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello ConfirmButton, Are you sure you want to confirm?
+14:16:55.907 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:18:13.342 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:18:15.935 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Checkbox alert text  Hello option2, share this practice page and share your knowledge
+14:19:26.645 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:19:28.515 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Row count is :11
+14:19:28.529 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Col count is :3
+14:20:59.329 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:23:37.458 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:23:50.781 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:23:54.716 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+14:23:54.831 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+14:24:08.526 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:24:11.936 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+14:24:12.100 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+14:24:27.299 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:24:30.669 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: third@email
+14:24:30.798 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: third@pwd
+14:25:28.333 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:26:19.445 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:27:20.810 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:27:33.604 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:27:37.217 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+14:27:37.336 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+14:27:51.142 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:29:05.982 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:32:31.382 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:32:43.279 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:32:46.557 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+14:32:46.666 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+14:32:59.927 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:33:03.001 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+14:33:03.139 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+14:34:01.321 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:34:14.241 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:34:18.136 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+14:34:18.244 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+14:34:31.589 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/
+14:34:35.139 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+14:34:35.281 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+14:38:43.573 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http:http://www.qaclickacademy.com/practice.php
+14:39:01.841 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http:http://www.qaclickacademy.com/practice.php
+14:39:39.021 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:39:39.064 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Arab Emirates
+14:39:39.114 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Kingdom
+14:39:39.159 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited States
+14:39:39.160 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Final text in  AutoSuggestiveDropdownUnited States
+14:39:47.165 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http:http://www.qaclickacademy.com/practice.php
+14:40:57.855 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:41:04.167 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello Testing, share this practice page and share your knowledge
+14:41:13.357 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello ConfirmButton, Are you sure you want to confirm?
+14:41:26.319 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:41:28.618 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:28.749 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:28.793 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:28.836 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:28.882 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:28.926 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:28.966 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:29.007 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:29.049 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:29.094 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:29.147 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:41:29.147 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Final text in  AutoSuggestiveDropdownTanzania, United Republic of
+14:41:41.971 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:41:42.450 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Checkbox alert text  Hello option2, share this practice page and share your knowledge
+14:42:36.555 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:47:57.651 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:48:03.905 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello Testing, share this practice page and share your knowledge
+14:48:13.103 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello ConfirmButton, Are you sure you want to confirm?
+14:48:25.371 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:48:29.574 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnite
+14:48:31.620 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:48:33.667 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Arab Emirates
+14:48:35.711 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Kingdom
+14:48:37.753 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited States
+14:48:37.753 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Final text in  AutoSuggestiveDropdownUnited States
+14:48:50.693 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:48:51.159 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Checkbox alert text  Hello option2, share this practice page and share your knowledge
+14:51:13.882 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:51:20.135 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello Testing, share this practice page and share your knowledge
+14:51:29.345 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello ConfirmButton, Are you sure you want to confirm?
+14:51:48.148 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:51:52.373 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnite
+14:51:54.419 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:51:56.467 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Arab Emirates
+14:51:58.514 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Kingdom
+14:52:00.560 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited States
+14:52:00.560 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Final text in  AutoSuggestiveDropdownUnited States
+14:52:19.004 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:52:19.462 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Checkbox alert text  Hello option2, share this practice page and share your knowledge
+14:52:32.571 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:52:32.591 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Row count is :11
+14:52:32.609 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Col count is :3
+14:52:44.712 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http:http://www.qaclickacademy.com
+14:54:17.455 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+14:55:14.041 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:55:20.306 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello Testing, share this practice page and share your knowledge
+14:55:29.495 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello ConfirmButton, Are you sure you want to confirm?
+14:55:47.084 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:55:51.275 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnite
+14:55:53.337 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+14:55:55.382 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Arab Emirates
+14:55:57.423 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Kingdom
+14:55:59.468 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited States
+14:55:59.468 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Final text in  AutoSuggestiveDropdownUnited States
+14:56:12.552 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:56:13.061 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Checkbox alert text  Hello option2, share this practice page and share your knowledge
+14:56:25.777 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+14:56:25.807 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Row count is :11
+14:56:25.851 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Col count is :3
+14:56:25.911 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Tables TestRahul Shetty Learn SQL in Practical + Database Testing from Scratch 25
+14:56:43.247 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+14:56:46.344 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+14:56:46.455 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+15:01:09.330 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+15:01:12.505 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+15:01:12.623 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+15:01:26.429 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+15:01:29.480 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+15:01:29.600 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+15:04:03.599 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+15:04:16.387 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+15:04:19.443 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+15:04:19.549 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+15:04:33.448 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+15:04:36.477 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+15:04:36.599 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+15:08:11.305 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:08:18.200 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+15:09:17.563 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:11:07.247 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:11:50.540 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:11:57.514 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+15:12:36.779 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:12:43.913 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+15:15:47.835 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:15:54.775 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+15:20:36.493 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:21:15.000 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:21:21.960 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+15:23:00.619 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:23:07.510 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+15:23:19.689 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+15:24:20.424 [main] DEBUG SeleniumLearn1.SpiceJetTest - URL OF SpiceJet : https://www.spicejet.com/Default.aspx
+15:24:37.162 [main] DEBUG SeleniumLearn1.SpiceJetTest - checkbox count is  6
+15:24:37.195 [main] DEBUG SeleniumLearn1.SpiceJetTest - checkbox isEnabled  false
+15:24:37.359 [main] DEBUG SeleniumLearn1.SpiceJetTest - Return date is enabled
+15:25:50.058 [main] DEBUG SeleniumLearn1.MiscellaneousTest - URL OF cricinfo : https://www.espncricinfo.com/series/8043/scorecard/1196120/tasmania-vs-victoria-7th-match-marsh-sheffield-shield-2019-20
+15:25:50.871 [main] INFO  SeleniumLearn1.MiscellaneousTest - extra2 3
+15:25:50.939 [main] INFO  SeleniumLearn1.MiscellaneousTest - total1 127
+15:25:50.939 [main] DEBUG SeleniumLearn1.MiscellaneousTest - total1 127
+15:25:50.939 [main] INFO  SeleniumLearn1.MiscellaneousTest - finaltotal127
+15:25:50.942 [main] ERROR SeleniumLearn1.MiscellaneousTest - error
+15:25:50.942 [main] FATAL SeleniumLearn1.MiscellaneousTest - fatal
+15:25:50.947 [main] DEBUG SeleniumLearn1.MiscellaneousTest - debug
+15:27:25.470 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+15:27:25.766 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 86
+15:27:25.892 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+15:27:31.252 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+15:27:34.076 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+15:27:36.366 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+15:27:38.827 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+15:27:38.914 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : Best Buy | Official Online Store | Shop Now & Save
+21:35:10.106 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+23:36:30.443 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Row count is :0
+00:01:45.171 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+00:01:48.891 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+00:01:49.001 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+11:15:26.533 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+11:15:38.154 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 246
+11:15:38.431 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+11:18:38.662 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+11:18:45.367 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 242
+11:18:45.561 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+11:23:38.139 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+11:23:44.787 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 242
+11:23:45.275 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+11:25:24.927 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+11:25:30.940 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 242
+11:25:31.200 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+11:25:40.506 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+11:25:44.072 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+11:25:46.500 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+11:25:50.867 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+11:25:50.995 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : On Sale All Washers & Dryers - Best Buy
+11:28:41.531 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+11:28:49.419 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 246
+11:28:49.477 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+11:29:00.856 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+11:29:06.246 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+11:29:09.159 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+11:29:13.650 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+11:29:13.904 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : On Sale All Washers & Dryers - Best Buy
+11:36:57.713 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+11:37:05.468 [main] DEBUG SeleniumLearn1.SortingArrayTest - promo info Promo code applied successfully!
+11:37:18.426 [main] DEBUG SeleniumLearn1.SortingArrayTest - URL OF SortingArrayTest in RahulShettyAcademy website : https://rahulshettyacademy.com/seleniumPractise/#/
+11:37:37.038 [main] DEBUG SeleniumLearn1.SpiceJetTest - URL OF SpiceJet : https://www.spicejet.com/Default.aspx
+11:37:55.995 [main] DEBUG SeleniumLearn1.SpiceJetTest - checkbox count is  6
+11:37:56.045 [main] DEBUG SeleniumLearn1.SpiceJetTest - checkbox isEnabled  false
+11:37:56.227 [main] DEBUG SeleniumLearn1.SpiceJetTest - Return date is enabled
+11:38:14.518 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF bestbuy : https://www.bestbuy.com/
+11:38:33.267 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+11:38:34.657 [main] DEBUG SeleniumLearn1.ActionsClassTest - the text in the frames is MIDDLE
+11:38:42.491 [main] DEBUG SeleniumLearn1.ActionsClassTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+11:39:20.053 [main] DEBUG SeleniumLearn1.MiscellaneousTest - URL OF cricinfo : https://www.espncricinfo.com/series/8043/scorecard/1196120/tasmania-vs-victoria-7th-match-marsh-sheffield-shield-2019-20
+11:39:20.601 [main] INFO  SeleniumLearn1.MiscellaneousTest - extra2 3
+11:39:20.663 [main] INFO  SeleniumLearn1.MiscellaneousTest - total1 127
+11:39:20.664 [main] DEBUG SeleniumLearn1.MiscellaneousTest - total1 127
+11:39:20.664 [main] INFO  SeleniumLearn1.MiscellaneousTest - finaltotal127
+11:39:20.667 [main] ERROR SeleniumLearn1.MiscellaneousTest - error
+11:39:20.667 [main] FATAL SeleniumLearn1.MiscellaneousTest - fatal
+11:39:20.668 [main] DEBUG SeleniumLearn1.MiscellaneousTest - debug
+11:39:42.481 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+11:39:54.318 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 242
+11:39:54.676 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+11:40:03.089 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+11:40:08.308 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+11:40:12.521 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+11:40:20.348 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+11:40:22.700 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : On Sale All Washers & Dryers - Best Buy
+11:40:44.394 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+11:40:50.881 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello Testing, share this practice page and share your knowledge
+11:41:00.472 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello ConfirmButton, Are you sure you want to confirm?
+11:41:16.169 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+11:41:20.734 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnite
+11:41:22.863 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+11:41:24.979 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Arab Emirates
+11:41:27.084 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Kingdom
+11:41:29.170 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited States
+11:41:29.170 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Final text in  AutoSuggestiveDropdownUnited States
+11:41:48.385 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+11:41:50.098 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Checkbox alert text  Hello option2, share this practice page and share your knowledge
+11:42:07.274 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+11:42:21.226 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+11:42:21.258 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Row count is :11
+11:42:21.285 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Col count is :3
+11:42:21.324 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Tables TestRahul Shetty Learn SQL in Practical + Database Testing from Scratch 25
+11:42:34.016 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+11:42:46.004 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: first@email
+11:42:46.566 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: first@pwd
+11:43:16.298 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+11:43:41.889 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - email is: second@email
+11:43:43.022 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - pwd is: second@pwd
+12:05:08.800 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+12:05:16.246 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 242
+12:05:16.359 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+12:05:26.069 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+12:05:28.360 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+12:05:30.777 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+12:05:34.707 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+12:05:35.057 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : On Sale All Washers & Dryers - Best Buy
+13:38:29.568 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - URL OF QACLICKACADEMY : http://www.qaclickacademy.com/practice.php
+13:38:35.923 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - alert information : Hello Testing, share this practice page and share your knowledge
+13:38:45.269 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - confirm alert information : Hello ConfirmButton, Are you sure you want to confirm?
+13:38:49.596 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownTanzania, United Republic of
+13:38:51.668 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Arab Emirates
+13:38:53.761 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited Kingdom
+13:38:55.813 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - text in loop of AutoSuggestiveDropdownUnited States
+13:38:55.813 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Final text in  AutoSuggestiveDropdownUnited States
+13:38:56.262 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Checkbox alert text  Hello option2, share this practice page and share your knowledge
+13:38:56.297 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Row count is :11
+13:38:56.338 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Col count is :3
+13:38:56.392 [main] DEBUG SeleniumLearn1.QAClickAcademyTest - Tables TestRahul Shetty Learn SQL in Practical + Database Testing from Scratch 25
+13:46:33.660 [main] DEBUG SeleniumLearn1.ParametrizatonTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+13:46:36.814 [main] DEBUG SeleniumLearn1.ParametrizatonTest - email is: first@email
+13:46:36.931 [main] DEBUG SeleniumLearn1.ParametrizatonTest - pwd is: first@pwd
+13:47:54.155 [main] DEBUG SeleniumLearn1.ParametrizatonTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+13:47:57.296 [main] DEBUG SeleniumLearn1.ParametrizatonTest - email is: first@email
+13:47:57.409 [main] DEBUG SeleniumLearn1.ParametrizatonTest - pwd is: first@pwd
+13:48:11.526 [main] DEBUG SeleniumLearn1.ParametrizatonTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+13:48:14.547 [main] DEBUG SeleniumLearn1.ParametrizatonTest - email is: second@email
+13:48:14.669 [main] DEBUG SeleniumLearn1.ParametrizatonTest - pwd is: second@pwd
+13:49:25.206 [main] DEBUG SeleniumLearn1.ParametrizatonTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+13:49:28.476 [main] DEBUG SeleniumLearn1.ParametrizatonTest - email is: first@email
+13:49:28.614 [main] DEBUG SeleniumLearn1.ParametrizatonTest - pwd is: first@pwd
+13:49:46.888 [main] DEBUG SeleniumLearn1.ParametrizatonTest - URL OF Login Page QACLICKACADEMY : http://www.qaclickacademy.com
+13:49:50.078 [main] DEBUG SeleniumLearn1.ParametrizatonTest - email is: second@email
+13:49:50.193 [main] DEBUG SeleniumLearn1.ParametrizatonTest - pwd is: second@pwd
+13:53:07.513 [main] DEBUG SeleniumLearn1.FramesMultipleWindowsTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:53:08.528 [main] DEBUG SeleniumLearn1.FramesMultipleWindowsTest - the text in the frames is MIDDLE
+13:56:34.073 [main] DEBUG SeleniumLearn1.FramesMultipleWindowsTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:56:35.255 [main] DEBUG SeleniumLearn1.FramesMultipleWindowsTest - the text in the frames is MIDDLE
+13:56:42.070 [main] DEBUG SeleniumLearn1.FramesMultipleWindowsTest - URL OF TheInternet : https://the-internet.herokuapp.com/
+13:59:07.343 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+14:01:41.955 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+14:02:46.135 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+14:04:04.917 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+14:04:10.820 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 240
+14:04:11.005 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+14:04:18.280 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+14:04:20.712 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+14:04:23.174 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+14:04:26.700 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+14:04:27.002 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : On Sale All Washers & Dryers - Best Buy
+14:05:32.252 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+14:05:38.314 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 247
+14:05:38.355 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+14:05:49.977 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+14:05:52.449 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+14:05:54.935 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+14:05:57.314 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+14:05:57.578 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : On Sale All Washers & Dryers - Best Buy
+14:08:24.410 [main] DEBUG SeleniumLearn1.LinksCountTest - URL OF bestBuy : https://www.bestbuy.com/
+14:08:31.937 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in whole page is : 247
+14:08:32.000 [main] DEBUG SeleniumLearn1.LinksCountTest - Links Count in footer is  : 43
+14:08:44.395 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Price Match Guarantee - Best Buy
+14:08:46.889 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Return & Exchange Policy - Best Buy
+14:08:49.248 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Best Buy Shipping Delivery and Store Pickup
+14:08:51.385 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of Child Window is : Sign In for Order Status
+14:08:51.618 [main] DEBUG SeleniumLearn1.LinksCountTest - Title of parent  Window is : On Sale All Washers & Dryers - Best Buy
+14:14:30.300 [main] DEBUG SeleniumLearn1.SpiceJetTest - URL OF SpiceJet : https://www.spicejet.com/Default.aspx
+14:14:48.387 [main] DEBUG SeleniumLearn1.SpiceJetTest - checkbox count is  6
+14:14:48.428 [main] DEBUG SeleniumLearn1.SpiceJetTest - checkbox isEnabled  false
+14:14:48.679 [main] DEBUG SeleniumLearn1.SpiceJetTest - Return date is enabled
+15:04:28.583 [main] DEBUG SeleniumLearn1.DataBaseConnectionTest - Adam@gmail.com
+15:04:28.599 [main] DEBUG SeleniumLearn1.DataBaseConnectionTest - Adam@gmail.com

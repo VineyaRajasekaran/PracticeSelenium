@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 442.042 s <<< FAILURE! - in TestSuite
+LinkCounts(SeleniumLearn1.LinksCountTest)  Time elapsed: 28.479 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at SeleniumLearn1.LinksCountTest.LinkCounts(LinksCountTest.java:64)
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resourcesNew.Listeners"/>
+  </listeners>
+  <test name="LinksCount(failed)">
+    <classes>
+      <class name="SeleniumLearn1.LinksCountTest">
+        <methods>
+          <include name="TearDown"/>
+          <include name="LinkCounts"/>
+          <include name="browserCall"/>
+        </methods>
+      </class> <!-- SeleniumLearn1.LinksCountTest -->
+    </classes>
+  </test> <!-- LinksCount(failed) -->
+</suite> <!-- Failed suite [Suite] -->
