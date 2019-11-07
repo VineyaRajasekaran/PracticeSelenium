@@ -15,6 +15,7 @@ import org.testng.annotations.Test;
 
 public class DataBaseConnectionTest {
 	private static final Logger log = LogManager.getLogger(DataBaseConnectionTest.class.getName());
+	String username,password;
 	
 	@Test
 	public void getDatafromDataBase() throws SQLException {
@@ -29,12 +30,15 @@ public class DataBaseConnectionTest {
 
 	ResultSet rs=s.executeQuery("select username , password from logincredentials where name='adam';");
 	while(rs.next()) {
+		username=rs.getString("username");
+		password=rs.getString("password");
 		log.debug(rs.getString("username"));
 		log.debug(rs.getString("password"));
 		
 	}
 
 	}
+	
 	
 
 }

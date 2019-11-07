@@ -439,3 +439,11 @@
 14:14:48.679 [main] DEBUG SeleniumLearn1.SpiceJetTest - Return date is enabled
 15:04:28.583 [main] DEBUG SeleniumLearn1.DataBaseConnectionTest - Adam@gmail.com
 15:04:28.599 [main] DEBUG SeleniumLearn1.DataBaseConnectionTest - Adam@gmail.com
+10:56:03.304 [main] DEBUG SeleniumLearn1.WindowAuthenticationTest - URL OF WindowAuthentication TheInternet : http://admin:admin@the-internet.herokuapp.com/
+12:19:07.832 [main] DEBUG SeleniumLearn1.FileUploadTest - URL OF pdftoJpg : https://pdf2jpg.net/
+12:21:17.723 [main] DEBUG SeleniumLearn1.FileUploadTest - URL OF pdftoJpg : https://pdf2jpg.net/
+12:22:05.074 [main] DEBUG SeleniumLearn1.FileUploadTest - URL OF pdftoJpg : https://pdf2jpg.net/
+12:23:22.602 [main] DEBUG SeleniumLearn1.FileUploadTest - URL OF pdftoJpg : https://pdf2jpg.net/
+12:24:21.354 [main] DEBUG SeleniumLearn1.FileUploadTest - URL OF pdftoJpg : https://pdf2jpg.net/
+12:27:15.327 [main] DEBUG SeleniumLearn1.FileUploadTest - URL OF pdftoJpg : https://pdf2jpg.net/
+12:29:00.143 [main] DEBUG SeleniumLearn1.FileUploadTest - URL OF pdftoJpg : https://pdf2jpg.net/

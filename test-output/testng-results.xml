@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="364" started-at="2019-11-06T21:04:28Z" finished-at="2019-11-06T21:04:28Z">
+  <suite name="Default suite" duration-ms="13058" started-at="2019-11-07T18:28:50Z" finished-at="2019-11-07T18:29:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="364" started-at="2019-11-06T21:04:28Z" finished-at="2019-11-06T21:04:28Z">
-      <class name="SeleniumLearn1.DataBaseConnectionTest">
-        <test-method status="PASS" signature="getDatafromDataBase()[pri:0, instance:SeleniumLearn1.DataBaseConnectionTest@47af7f3d]" name="getDatafromDataBase" duration-ms="348" started-at="2019-11-06T15:04:28Z" finished-at="2019-11-06T15:04:28Z">
+    <test name="Default test" duration-ms="13058" started-at="2019-11-07T18:28:50Z" finished-at="2019-11-07T18:29:03Z">
+      <class name="SeleniumLearn1.FileUploadTest">
+        <test-method status="PASS" signature="fileUpload()[pri:0, instance:SeleniumLearn1.FileUploadTest@359f7cdf]" name="fileUpload" duration-ms="13039" started-at="2019-11-07T12:28:50Z" finished-at="2019-11-07T12:29:03Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getDatafromDataBase -->
-      </class> <!-- SeleniumLearn1.DataBaseConnectionTest -->
+        </test-method> <!-- fileUpload -->
+      </class> <!-- SeleniumLearn1.FileUploadTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

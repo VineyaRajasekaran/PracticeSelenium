@@ -50,6 +50,14 @@ public class TheInternet {
 	}
 	
 	
+	@FindBy(xpath="//a[contains(text(),'Basic Auth')]")
+	WebElement WindowAuthentication;
+	
+	public WebElement getWindowAuthentication()
+	{
+		return WindowAuthentication;
+	}
+	
 	
 }
 
