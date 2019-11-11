@@ -17,11 +17,14 @@
        </classes>
   </test>
   
-   <test thread-count="5" name="Actions">
+   <test thread-count="5" name="FileUpload">
     <classes>
-      <class name="SeleniumLearn1.ActionsClassTest"/>
+      <class name="SeleniumLearn1.WindowAuthenticationTest"/>
+       <class name="SeleniumLearn1.FileUploadTest"/>
+        <class name="SeleniumLearn1.DataBaseConnectionTest"/>
        </classes>
   </test>
+  
       <test thread-count="5" name="Miscellaneous">
     <classes>
      <class name="SeleniumLearn1.MiscellaneousTest"/>
