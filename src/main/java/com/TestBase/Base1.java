@@ -30,18 +30,18 @@ public class Base1 {
 		prop = new Properties();
 		FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\java\\resourcesNew\\mydata.properties");
 		prop.load(fis);
-		if(prop.getProperty("browser").equalsIgnoreCase("chrome"))
+		if(System.getProperty("browser").equalsIgnoreCase("chrome"))
 		{
 			System.setProperty("webdriver.chrome.driver",
 					System.getProperty("user.dir")+"\\src\\main\\java\\resourcesNew\\chromedriver.exe");
 			ChromeOptions options = new ChromeOptions();
-			/**if(System.getProperty("browser").contains("headless")) 
+			if(System.getProperty("browser").contains("headless")) 
 			{
 				options.addArguments("headless");
-			}**/
+			}
 			driver = new ChromeDriver(options);
 		}
-		else if(prop.getProperty("browser").equalsIgnoreCase("firefox"))
+		else if(System.getProperty("browser").equalsIgnoreCase("firefox"))
 		{
 			System.setProperty("webdriver.gecko.driver",
 					System.getProperty("user.dir")+"\\src\\main\\java\\resourcesNew\\geckodriver.exe");
